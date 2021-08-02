@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+
+.clear{
+    height: 100px;
+    width: 100%;
+}
+
+#def, .divs{
+    background-color: #f39c12;
+    height: 100;
+    width: 100%;
+    padding: 20px;
+    text-align: justify;
+}
